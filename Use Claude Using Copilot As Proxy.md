@@ -32,6 +32,10 @@ Now simply run the command from your project folder:
 
 claude
 
+## 5. Check Usage
+
+https://ericc-ch.github.io/copilot-api/?endpoint=http://localhost:4141/usage
+
 ## Troubleshooting
 
 * Error 404: Ensure ANTHROPIC_BASE_URL does NOT end with /v1.
